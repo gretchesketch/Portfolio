@@ -1,0 +1,31 @@
+:root {
+    --border: 2px solid #070B34;
+    --color: #855988;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    overflow-x: hidden;
+    color: var(--color);
+}
+
+Main {
+    width: 1280px;
+    width: auto;
+}
+
+#header {
+    width: 100%;
+    min-height: 70px;
+    border: var(--border);
+}
+
+#about, #projects, #contacts {
+    width: 100%;
+    height: 720px;
+    border: var(--border);
+}
