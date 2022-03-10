@@ -32,19 +32,49 @@
 
 <!--About me Section-->
 <main>
-    <section id="about">
+
+    <div class="container" id="about">
         <h1>About Me</h1>
-    </section>
+        <p>ex-mail carrier that never wants to dirve agian.</p>
+    </div>
 <!--Sample Projects Section-->
-    <section id="projects">
+
+    <div class="container" id="projects">
         <h1>Sample Work</h1>
-    </section>
+    </div>
+
 <!--Contact Information Section-->
-    <section id="contact">
-        <h1>Reach me at:</h1>
-    </section>
+    <div class="container" id="contact">
+        <menu>
+            <h1>Reach me at:</h1>
+                 
+            <!--formsubmit.com email form-->
+            <form id="contact" action="https://formsubmit.co/gretchenjensen92@gmail.com" method="post">
+                <input type="text" placeholder="Your Name Here" name="name" required>
+
+                <input type="email" name="email" placeholder="Your Email Here" required>
+
+                <input type="subject" name="subject" placeholder="Your Message Here" required>
+                <input type="hidden" name="_subject" value="NEW Submission!">
+
+                <form method="POST" action="pages/thankyou.html">  
+                    <input type="submit"/>  
+            </form>
+                 
+                 <p>follow me on <a id="linked" href="https://www.linkedin.com/in/gretchen-jensen-23721415a/">LinkedIn</a>
+                </p>
+
+                <p>check out more of my work on <a id="git" href="https://github.com/gretchesketch">GitHub</a>
+                </p>
+        </menu>
+    </div>
 </main>
 
+<!--website details-->
+<footer>
+  <h2>created by Gretchen Jensen</h2>
+  <h3>last updated March of 2022</h3>
+</footer>
 
 </body>
 
