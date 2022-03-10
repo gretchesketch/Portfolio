@@ -80,7 +80,7 @@ header {
     padding: 5px 5px 5px 5px;
     background-color: #DBE9F5;
 }
-/*main contents*/
+/*main content sections*/
  .container {
      width: 90%;
      overflow: hidden;
@@ -92,6 +92,7 @@ header {
      border-radius: 3%;
  }
 
+ /*main section titles properties*/
  .container h1 {
      text-align: center;
      background-color: #070B34;
@@ -102,12 +103,14 @@ header {
      position: relative;
  }
 
+ /*my photo properties*/
 .photo {
     width: 192px;
     height: 293px;
     display: flex;
 }
 
+/*about me text properties*/
 #float1 {
     float:right;
 }
