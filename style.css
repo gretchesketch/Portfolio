@@ -8,9 +8,7 @@
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Abril Fatface', cursive;
-    font-family: 'Alfa Slab One', cursive;
-    font-family: 'Redressed', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -52,23 +50,35 @@ p {
     text-align: center;
  }
 
+ /*HERO-name properties*/
  .hero-title {
     font-size: 60px;
     font-weight: 600;
     margin-bottom: 0;
     justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
  }
+
+ /*HERO-text properties*/
  .hero-subtitle {
     font-size: 40px;
     font-weight: 200;
     margin-top: 1rem;
     text-align: center;
+    display: inline-block;
  }
+
+
 
 /*nav bar connect properties*/
 nav {
     text-align: end;
-    word-spacing: 35px;
+    font-size: x-large;
+    word-spacing: 25px;
+    font-weight: 600;
+    margin: 6px;
+    padding: 5px;
 }
 
 
@@ -105,27 +115,25 @@ header {
 
  /*my photo properties*/
 .photo {
-    width: 192px;
+    width: 325px;
     height: 293px;
     display: flex;
 }
 
 /*about me text properties*/
 #float1 {
-    float:right;
+    flex-wrap: nowrap;
 }
 
-/*sample work grid*/
+/*grid properties*/
 .grid {
   display: flex;
-  /* Forces elements to the next line if they don't fit */
   flex-wrap: wrap;
   margin-top: 2%;
 }
 
 .main-header {
   display: flex;
-  /* Forces elements to the next line if they don't fit */
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 60px;
