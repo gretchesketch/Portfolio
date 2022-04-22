@@ -13,12 +13,83 @@ I plan to add to the about me section as I grow my skill and work through projec
 
 04/22/2022
 
-Adding a project and homework to be veiws by potential employers
-project1: GitCocktail - https://gretchesketch.github.io/project1_Cocktail-Recipe/
+* Portfolio
+
+	* GitHub repository URL: https://github.com/gretchesketch/Portfolio
+
+        live URL: https://gretchesketch.github.io/Portfolio/
+
+	* HTML, CSS.
+
+	* A website with career relavent projects and professional contact information.
+	
+	*  Contributers:
+        -Gretchen Jensen - https://github.com/gretchesketch 
+        -Charnay Birton - https://github.com/coding26fig
+        -Jason Chun - https://github.com/jasonchun7
+        -Bryant Hunter - https://github.com/BryantHunter10
+
+* project1: GitCocktail
+
+	* https://gretchesketch.github.io/project1_Cocktail-Recipe/
+
+	* HTML, CSS, Javascript, Materializecss.
+
+	* A simple app that searches a database for cocktail recipes.
+
+	* 2-3 Screenshots / gifs of the app
+
+	* License (usually MIT)
+	
+	*  Contributers:
+        -Gretchen Jensen - https://github.com/gretchesketch 
+        -Charnay Birton - https://github.com/coding26fig
+        -Jason Chun - https://github.com/jasonchun7
+        -Bryant Hunter - https://github.com/BryantHunter10
 
 
-GitHub repository URL:
-https://github.com/gretchesketch/Portfolio
 
-live URL:
-https://gretchesketch.github.io/Portfolio/
+
+* Futurama Quiz App
+
+	* https://gretchesketch.github.io/quiz-app/
+
+	* HTML, CSS, Javascript.
+
+	* A fun app that tests your knowledge of the show Futurama.
+
+	* 2-3 Screenshots / gifs of the app
+
+	* License (usually MIT)
+	
+	*  Contributers:
+        -Gretchen Jensen - https://github.com/gretchesketch
+
+
+* Password Generater
+
+	* https://gretchesketch.github.io/HW_3_Password-Generater/
+
+	* HTML, CSS, Javascript.
+
+	* An app that helps generate secure passwords.
+
+	* 2-3 Screenshots / gifs of the app
+
+	* License (usually MIT)
+	
+	*  Contributers:
+        -Gretchen Jensen - https://github.com/gretchesketch
+
+
+
+
+
+## Screenshot
+![image](images\PortfolioLandinPageScreenshot.jpg)
+![image](images\PortfolioAboutmeScreenshot.jpg)
+![image](images\PortfolioSampleWorkScreenshot.jpg)
+![image](images\PortfolioReachMeScreenshot.jpg)
+
+
+
